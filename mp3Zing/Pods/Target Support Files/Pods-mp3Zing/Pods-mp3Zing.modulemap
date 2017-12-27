@@ -1,0 +1,6 @@
+framework module Pods_mp3Zing {
+  umbrella header "Pods-mp3Zing-umbrella.h"
+
+  export *
+  module * { export * }
+}
